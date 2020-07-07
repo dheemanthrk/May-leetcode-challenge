@@ -1,4 +1,5 @@
 # May-leetcode-challenge
+Solutions to May leetcoding challenge in Python and C++. 
 
 ## Week 1
 
